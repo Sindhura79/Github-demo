@@ -1,4 +1,4 @@
 # Github-demo
 This is my learning in github
 <br>
-Author:Sindhura Kakarla CSE
+Author:Sindhura Kakarla CSE RGUKT
